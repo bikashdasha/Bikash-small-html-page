@@ -1,0 +1,14 @@
+
+h2{
+    text-align: center;
+    color: rgb(8, 0, 255);
+    
+}
+p{
+    color: red;
+    background-color: aqua;
+}
+button{
+    text-align: center;
+    color: chartreuse;
+}
